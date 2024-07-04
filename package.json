@@ -1,0 +1,21 @@
+{
+  "name": "myhttp",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.mjs",
+    "dev": "nodemon index.mjs rou  rou@gmail.com"
+
+  },
+  "keywords": [],
+  "author": "Rou Chen",
+  "license": "ISC",
+  "description": "my http server",
+  "dependencies": {
+    "jquery": "^3.7.1"
+  },
+  "devDependencies": {
+    "sass": "^1.77.6"
+  }
+}

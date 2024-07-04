@@ -1,0 +1,18 @@
+# Node.js(https://medium.com/@moinuict/mastering-gitignore-in-node-js-projects-44edf81dd17b)
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+
+# Optional npm cache directory
+.npm
+
+
+# Optional eslint cache
+.eslintcache
+
+# Environment variables
+.env*
